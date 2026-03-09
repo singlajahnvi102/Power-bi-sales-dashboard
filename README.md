@@ -1,5 +1,5 @@
 # Northwind Sales Performance Dashboard
-![Dashboard](Northwind sales dashboard.png.png)
+![Dashboard](Northwind%20sales%20dashboard.png.png)
 
 This project analyzes sales performance for Northwind Traders using Power BI.
 
